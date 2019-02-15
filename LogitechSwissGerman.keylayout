@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Thu, 22 Nov 200 Generated from KCHR: "Logitech Swiss German" -->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-02-15 at 22:02 (CET)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-02-15 at 22:23 (CET)-->
 <keyboard group="126" id="-6449" name="Logitech Swiss German" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -74,7 +74,7 @@
             <key code="21" output="4"/>
             <key code="22" output="6"/>
             <key code="23" output="5"/>
-            <key code="24" action="^"/>
+            <key code="24" output="^"/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
             <key code="27" output="&#x0027;"/>
@@ -104,7 +104,7 @@
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
-            <!-- gap, 54 through 64 -->
+            <!-- Thu, 22 Nov 200 Generated from KCHR: &#x0022;Logitech Swiss German&#x0022; &#x000A; Fr. 15 Feb 2019 Removed some dead keys-->
             <key code="64" output="&#x0010;"/>
             <key code="65" output="."/>
             <key code="66" output="&#x001D;"/>
@@ -192,7 +192,7 @@
             <key code="21" output="ç"/>
             <key code="22" output="&#x0026;"/>
             <key code="23" output="%"/>
-            <key code="24" action="`"/>
+            <key code="24" output="`"/>
             <key code="25" output=")"/>
             <key code="26" output="/"/>
             <key code="27" output="?"/>
@@ -428,10 +428,10 @@
             <key code="21" output="Ç"/>
             <key code="22" output="¬"/>
             <key code="23" output="["/>
-            <key code="24" action="~"/>
+            <key code="24" output="~"/>
             <key code="25" output="}"/>
             <key code="26" output="|"/>
-            <key code="27" action="´"/>
+            <key code="27" output="´"/>
             <key code="28" output="¢"/>
             <key code="29" output="≠"/>
             <key code="30" output="]"/>
