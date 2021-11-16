@@ -1,3 +1,5 @@
+This repo is not used anymore. The keymap is available as part of the [Ukulele](https://software.sil.org/ukelele/) download
+
 # macOS Keymap Swiss German
 
 Swiss German (Logitech) keyboard layout for macOS. Useful for programming.
